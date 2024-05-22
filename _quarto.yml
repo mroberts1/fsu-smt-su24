@@ -1,0 +1,38 @@
+project:
+  type: website
+  
+website:
+  title: "  "
+  navbar:
+    background: "#235440"
+    search: true
+    right:
+      - icon: envelope
+        aria-label: envelope
+        href: mailto:mrober40@fitchburgstate.edu
+      - icon: github
+        aria-label: github
+        href: https://github.com/mroberts1
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/mroberts_fsu
+format: 
+  html:
+    theme: 
+      light: ember.scss
+      dark: slate
+    css: custom.scss
+    grid: 
+        margin-width: 350px
+    self-contained: true
+    linestretch: 1.5
+    smooth-scroll: true
+    linkcolor: "#235440"
+    title-block-banner: true
+fig-responsive: true
+image-alt: " "
+execute:
+  echo: false
+reference-location: margin
+citation-location: margin
+editor: visual
