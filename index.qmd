@@ -1,8 +1,14 @@
 ---
-title: ""
+title: "COMM 7018: Social Media Theory"
 ---
 
-# COMM 7018: Social Media Theory
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
 
 ![](img/polyducks.gif)
 

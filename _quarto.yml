@@ -18,17 +18,14 @@ website:
         href: https://twitter.com/mroberts_fsu
 format: 
   html:
-    theme: 
-      light: ember.scss
-      dark: slate
-    css: custom.scss
+    self-contained: true
     grid: 
         margin-width: 350px
-    self-contained: true
+    css: custom.scss
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#235440"
-    title-block-banner: true
+    link-external-newwindow: true
 fig-responsive: true
 image-alt: " "
 execute:
