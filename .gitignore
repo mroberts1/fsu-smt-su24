@@ -1,3 +1,13 @@
 /.quarto/
 /_site/
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.png
+.jpg
+.jpeg
+.gif
+.pdf
+.zip
+README.html
