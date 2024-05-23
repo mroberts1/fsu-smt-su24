@@ -25,6 +25,10 @@ website:
         href: https://twitter.com/mroberts_fsu
 format:
   html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
     theme:
       light: ember.scss
       dark: [ember.scss, vapor]
@@ -36,6 +40,13 @@ format:
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
+  typst:
+    papersize: us-letter
+    mainfont: "Source Sans Pro"
+    fontsize: 14pt
+    margin:
+      x: 1.25in
+      y: 1.25in
 fig-responsive: true
 image-alt: " "
 execute:

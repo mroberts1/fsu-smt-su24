@@ -72,7 +72,7 @@ Reading assignments will be either from Required texts, linked to online, or ava
 PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link. The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
 
 
-## ASSIGNMENTS / EVALUATION
+## Assignments / Evaluation
 
 -   **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
 -   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
