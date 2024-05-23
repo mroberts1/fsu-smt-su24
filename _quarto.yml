@@ -1,11 +1,18 @@
 project:
   type: website
-  
+
 website:
   title: "  "
   navbar:
     background: "#235440"
     search: true
+    left:
+      - text: Home
+        file: index.qmd
+      - text: Resources
+        menu:
+        - text: TikTok Trends
+          file: tt-trends.qmd
     right:
       - icon: envelope
         aria-label: envelope
@@ -16,14 +23,14 @@ website:
       - icon: twitter
         aria-label: twitter
         href: https://twitter.com/mroberts_fsu
-format: 
+format:
   html:
     theme:
       light: ember.scss
-      dark: slate
+      dark: [ember.scss, vapor]
     css: custom.scss
     self-contained: true
-    grid: 
+    grid:
         margin-width: 350px
     linestretch: 1.5
     smooth-scroll: true
