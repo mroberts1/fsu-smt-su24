@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/about.html</loc>
-    <lastmod>2024-05-22T17:29:48.318Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w1-interpassive.html</loc>
+    <lastmod>2024-05-23T11:35:12.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/index.html</loc>
+    <lastmod>2024-05-23T11:32:19.949Z</lastmod>
   </url>
   <url>
     <loc>https://mroberts1.github.io/fsu-smt-su24/tt-trends.html</loc>
     <lastmod>2024-05-22T23:39:57.091Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/index.html</loc>
-    <lastmod>2024-05-23T08:46:19.554Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/about.html</loc>
+    <lastmod>2024-05-22T17:29:48.318Z</lastmod>
   </url>
 </urlset>
