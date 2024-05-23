@@ -9,6 +9,10 @@ website:
     left:
       - text: Home
         file: index.qmd
+      - text: Lectures
+        menu:
+        - text: W1 Interpassive Aggressive
+          file: /lectures/w1-interpassive.qmd
       - text: Resources
         menu:
         - text: TikTok Trends
@@ -26,7 +30,7 @@ website:
 format:
   html:
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     toc-location: right
     toc-title: '   '
     theme:
@@ -37,6 +41,7 @@ format:
     grid:
         margin-width: 350px
     linestretch: 1.5
+    fontsize: 1.1em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true

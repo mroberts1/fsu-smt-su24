@@ -17,10 +17,16 @@ $font-family-sans-serif:  "Source Sans Pro", "Atkinson Hyperlegible", -apple-sys
 // use IBM Plex Mono
 $font-family-monospace: "IBM Plex Mono", "Roboto Mono", monospace, monospace;
 
+$font-family-serif: "Source Serif Pro";
+
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
-p, li, h1, h2, h3, h4, h5, h6 {
+p, li, {
+  font-family: $font-family-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-sans-serif;
 }
 a:link {
