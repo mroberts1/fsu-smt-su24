@@ -34,32 +34,28 @@ To theorize something involves a number of processes:
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
-
-
 ## Objectives
 
 By the end of the course, students will be able to:
 
-- analyze technologies past, present, and imagined
-- describe the ways in which technologies shape our world the ways in which we shape those technologies
-- explain how social media is a result of the intersection between technologies and existing human communication dynamics
-- discuss how theory of technology and social media can improve the vocational outlook of a student
-- play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
-- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
-
+-   analyze technologies past, present, and imagined
+-   describe the ways in which technologies shape our world the ways in which we shape those technologies
+-   explain how social media is a result of the intersection between technologies and existing human communication dynamics
+-   discuss how theory of technology and social media can improve the vocational outlook of a student
+-   play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
+-   through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
 ## Course Texts
 
-- These sources are either available online or excerpts will be posted on Blackboard.
+-   These sources are either available online or excerpts will be posted on Blackboard.
 
-- Byung-Chul Han, *In The Swarm: Digital Prospects* (Cambridge, MA: MIT Press, 2017).
+-   Byung-Chul Han, *In The Swarm: Digital Prospects* (Cambridge, MA: MIT Press, 2017).
 
-- Robert Pfaller, *Interpassivity: The Aesthetics of Delegated Enjoyment* (Edinburgh: Edinburgh University Press, 2017).
+-   Robert Pfaller, *Interpassivity: The Aesthetics of Delegated Enjoyment* (Edinburgh: Edinburgh University Press, 2017).
 
-- Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
+-   Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
 
-- Kaitlyn Tiffany, *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It* (Oxford: Blackwell’s, 2022).
-
+-   Kaitlyn Tiffany, *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It* (Oxford: Blackwell’s, 2022).
 
 ## Course Info
 
@@ -70,7 +66,6 @@ We will be using the Blackboard Learning Management System (LMS) as the primary 
 Reading assignments will be either from Required texts, linked to online, or available as PDF documents.
 
 PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link. The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
-
 
 ## Assignments / Evaluation
 
@@ -97,8 +92,6 @@ The culminating written assignment for the course (2,000 words) may consist of v
 
 A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4.
 
-
-
 ## Schedule
 
 **Week 1** M 05/20
@@ -109,9 +102,9 @@ Rob Horning, *Internal Exile* (blog)
 
 -   “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
 -   “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
--   Robert Pfaller, "[Introduction](/pdf/interpassivity-intro.pdf)" (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
+-   Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
 
-***
+------------------------------------------------------------------------
 
 **Week 2** M 05/27
 
@@ -119,9 +112,9 @@ Rob Horning, *Internal Exile* (blog)
 
 Byung-Chul Han, *In The Swarm: Digital Prospects*
 
--   chs. 1-3: "[No Respect"; "Outrage Society"; "In The Swarm](/pdf/in-the-swarm.pdf)"
+-   chs. 1-3: "No Respect"; "Outrage Society"; "In The Swarm" \[[pdf](pdf/in-the-swarm.pdf)\]
 
-***
+------------------------------------------------------------------------
 
 **Week 3** M 06/03
 
@@ -129,7 +122,7 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 
 -   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (*Medium*, 17 March 2023)
 
-***
+------------------------------------------------------------------------
 
 **Week 4** M 06/10
 
@@ -138,7 +131,7 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 -   Nancy Baym, “Introduction: The Intimate Work of Connection” (*Playing to the Crowd*, Introduction)
 -   Kaitlyn Tiffany, *Everything I Need I Get From You* (it's a big excerpt - read at least the Introduction and the first couple of chapters)
 
-***
+------------------------------------------------------------------------
 
 **Week 5** M 06/17
 
@@ -148,7 +141,7 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 
 Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (*heyalma*, 10 August 2017)
 
-***
+------------------------------------------------------------------------
 
 **Week 6** M 06/24
 
@@ -156,10 +149,10 @@ Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://w
 
 Ryan Milner and Whitney Phillips, *You Are Here*
 
-- ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
-- ch. 6: "Choose Your Own Ethics Adventure"
+-   ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
+-   ch. 6: "Choose Your Own Ethics Adventure"
 
-***
+------------------------------------------------------------------------
 
 **Week 7** M 07/01
 
@@ -167,7 +160,6 @@ Ryan Milner and Whitney Phillips, *You Are Here*
 
 -   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
 -   Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
-
 
 ## Resources
 
@@ -203,19 +195,13 @@ Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating
 
 Allissa V, Richardson, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
 
-
-
 ## Late Policy
 
 Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
-
-
 ## Mandatory Reporter
 
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are "mandatory reporters," which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit <http://fitchburgstate.edu/titleix> to access information about university support and resources.
-
-
 
 ## Health
 
@@ -235,8 +221,6 @@ FAVE collaborates with a number of community partners (e.g., YWCA Domestic Viole
 
 The university continues to partner with Our Father's House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father's House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each "household" may shop for nutritious food once per month by presenting a valid FSU ID.
 
-
-
 ## Academic Integrity
 
 The University "Academic Integrity" policy can be found online at [http:// www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
@@ -245,13 +229,9 @@ Plagiarism includes, but is not limited to: - Using papers or work from another 
 
 *If you're not clear on what is or is not plagiarism, ASK. The BEST case scenario if caught is a zero on that assignment, and ignorance of what does or does not count is not an excuse. That being said, I'm a strong supporter of* [*Fair Use*](https://en.wikipedia.org/wiki/Fair_Use) *doctrine. Just attribute what you use--and, again, ASK if there's any doubt.*
 
-
-
 ## Americans With Disabilities Act (ADA)
 
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
-
-
 
 ## Technology
 
@@ -266,8 +246,6 @@ At some point during the semester you will likely have a problem with technology
 -   Save drafts: When editing, set aside the original and work with a copy.
 
 -   Practice safe computing: On your personal devices, install and use software to control viruses and malware.
-
-
 
 ## Grading Policy
 
@@ -284,8 +262,6 @@ Grading for the course will follow the FSU grading policy below:
 2.0: 71-73\
 0.0: \< 70
 
-
-
 ## Academic Resources
 
 [Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
@@ -297,5 +273,3 @@ Grading for the course will follow the FSU grading policy below:
 [Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences](https://www.getrave.com/login/fitchburgstate/)
 
 [University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/)
-
-
