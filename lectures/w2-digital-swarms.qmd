@@ -10,15 +10,17 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
+![](/img/216.jpeg)
+
 [Byung-Chul Han](https://en.wikipedia.org/wiki/Byung-Chul_Han) is a Korean-German philosopher who is best known for his short but influential book [*The Burnout Society*](https://www.sup.org/books/title/?id=25725) (2015, originally published in German as *Müdigkeitsgesellschaft*, 2010). If you're interested, this YouTube documentary (see right) is a good introduction to Han and his work.
 
-:::{.column-margin}
+::: column-margin
 {{< video https://youtu.be/bNkDeUApreo width="320" height="180" >}}
 :::
 
 As you'll see, or have seen, Han writes exactly like a philosopher (he's very influenced by classical German philosophers like Kant and Hegel) - his writing is abstract, with no concrete examples. One of the things I'd like to try to do with you this week, then, is to try to apply some of his concepts and arguments to specific contexts and examples.
 
-One among many that came to mind while re-reading his chapters again was the scandal from a few years back about the phenomenon you may have heard of at least vaguely, of  "Karens." In my experience, although referring to certain types of white women with a sense of entitlement as "Karens" has become a meme, many people still know little about the context in which the term originated.
+One among many that came to mind while re-reading his chapters again was the scandal from a few years back about the phenomenon you may have heard of at least vaguely, of "Karens." In my experience, although referring to certain types of white women with a sense of entitlement as "Karens" has become a meme, many people still know little about the context in which the term originated.
 
 Luckily for us, this origin is explained in a chapter from Cathy O'Neil's excellent recent book *The Shame Machine*, so I decided to include it as optional recommended reading for this week. It's a narrative rather than theory so is a quick read, but if you have chance to take a look at it I think you'll see some connections with some of the points that Han is making in his critique of the decline of respect in online social interactions and digital swarms. I'll be interested to hear how you make that connection in your review assignment due later this week.
 
@@ -32,7 +34,7 @@ One thing that's super clear is that Han prefers crowds to swarms (he clearly do
 
 More generally, how accurate do you find Han's melancholy diagnosis of social media communication? He's certainly not alone in making this kind of critique--the notion of *toxicity* and polluted environments is more pervasive in recent critique such as Ryan Milner and Whitney Phillips's book *You Are Here*).
 
-But of course, we don't have to agree! For example, one aspect of this kind of theoretical writing is that it tends to be overly *schematic*, in the sense of reducing the complexities of social and cultural practices to overly rigid,  black-and-white distinctions. The highly ideological crowds vs. swarms distinction is a case in point, or the "de-individualized nobodies" vs. "individual anonymous somebodies" distinction later on. It doesn't have to be a zero sum game. So we might try to scrutinize and pull apart these distinctions: for example, how valid is this crowds vs. swarms opposition? Could it not be argued that Han's account of crowds is invoking a nostalgic kind of *folk politics*, as Nick Srnicek and Alex Williams call it in their recent critique of left politics, *Inventing the Future*?
+But of course, we don't have to agree! For example, one aspect of this kind of theoretical writing is that it tends to be overly *schematic*, in the sense of reducing the complexities of social and cultural practices to overly rigid, black-and-white distinctions. The highly ideological crowds vs. swarms distinction is a case in point, or the "de-individualized nobodies" vs. "individual anonymous somebodies" distinction later on. It doesn't have to be a zero sum game. So we might try to scrutinize and pull apart these distinctions: for example, how valid is this crowds vs. swarms opposition? Could it not be argued that Han's account of crowds is invoking a nostalgic kind of *folk politics*, as Nick Srnicek and Alex Williams call it in their recent critique of left politics, *Inventing the Future*?
 
 For example, the Turkish journalist Zeynep Tufecki has an excellent book called *Twitter and Tear Gas* which is an account of the use of Facebook and Twitter by oppositional political movements in Tunisia and Egypt that led to the overthrow of autocratic regimes in those countries known as the Arab Spring. Tufecki herself is critical of dismissals of the capacity of social media platforms as catalysts for progressive social change, made by writers like Evgeny Morozov in his aptly-titled book *The Net Delusion*. Han seems to think that basically nothing good can come out of online communication, but do you think that's really true? Don't be afraid to think against the grain and try to come up with counter-examples or arguments.
 
@@ -45,26 +47,3 @@ To get an idea of this, look at the "Code of Conduct" statements on many communi
 Or how about the [Three Gates of Speech](https://wiki.xxiivv.com/site/discourse.html), which is recommended on the Mastodon community that I'm a member of. If you haven't come across this, it's a very interesting read, but also problematizes simple narratives about social media being some kind of lawless frontier dominated by trolls and outlaws.
 
 Entire SM platforms are dedicated to trying to reproduce the model of the public sphere, as an arena of civil discourse and debate in which people are *respectful* of and try to listen seriously to perspectivs other than their own. They are explicitly meant to counter the all-too-familiar critique of the silo-ing of SM communities into *echo chambers* of confirmation bias. As an example, take a look at the conversations going on on the platform [Kialo](https://www.kialo.com/about), founded in 2018. For more information about it, see [this article](https://www.chronicle.com/article/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
