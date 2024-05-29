@@ -1,0 +1,12 @@
+---
+title: "W2: Digital Swarms"
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+

@@ -11,7 +11,7 @@ library(palmerpenguins)
 ```
 
 ::: {layout="[[40, 60]]"}
-![](img/polyducks.gif)
+[![](img/polyducks.gif)](https://www.polyducks.co.uk)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -23,7 +23,7 @@ Instructor: Dr. Martin Roberts\
 
 ## Introduction
 
-The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
+The term *social media* is popularly understood as referring to corporate-owned, advertising-funded communication *platforms* based on *user-generated content*: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated *practices* of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of *social media theory*. But what does it mean to theorize social media? Why do we need social media theory at all?
 
 To theorize something involves a number of processes:
 
@@ -110,9 +110,10 @@ Rob Horning, *Internal Exile* (blog)
 
 **In The Swarm**
 
-Byung-Chul Han, *In The Swarm: Digital Prospects*
+- Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (*In The Swarm: Digital Prospects*, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
+- Cathy O'Neil, "Humiliation and Defiance" (*The Shame Machine: Who Profits in the New Age of Humiliation*, ch. 6)
+\[[pdf](pdf/shame-machine-karens.pdf)\]
 
--   chs. 1-3: "No Respect"; "Outrage Society"; "In The Swarm" \[[pdf](pdf/in-the-swarm.pdf)\]
 
 ------------------------------------------------------------------------
 
@@ -120,7 +121,7 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 
 **Selfies**
 
--   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (*Medium*, 17 March 2023)
+- Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (*Medium*, 17 March 2023)
 
 ------------------------------------------------------------------------
 
@@ -128,8 +129,8 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 
 **Fangirls**
 
--   Nancy Baym, “Introduction: The Intimate Work of Connection” (*Playing to the Crowd*, Introduction)
--   Kaitlyn Tiffany, *Everything I Need I Get From You* (it's a big excerpt - read at least the Introduction and the first couple of chapters)
+- Nancy Baym, “Introduction: The Intimate Work of Connection” (*Playing to the Crowd*, Introduction)
+- Kaitlyn Tiffany, *Everything I Need I Get From You* (it's a big excerpt - read at least the Introduction and the first couple of chapters)
 
 ------------------------------------------------------------------------
 
@@ -137,9 +138,9 @@ Byung-Chul Han, *In The Swarm: Digital Prospects*
 
 **Females**
 
-[Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (*WIRED*, 11 September 2023)
+- [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (*WIRED*, 11 September 2023)
 
-Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (*heyalma*, 10 August 2017)
+- Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (*heyalma*, 10 August 2017)
 
 ------------------------------------------------------------------------
 
@@ -149,8 +150,8 @@ Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://w
 
 Ryan Milner and Whitney Phillips, *You Are Here*
 
--   ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
--   ch. 6: "Choose Your Own Ethics Adventure"
+- ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
+- ch. 6: "Choose Your Own Ethics Adventure"
 
 ------------------------------------------------------------------------
 
@@ -158,8 +159,8 @@ Ryan Milner and Whitney Phillips, *You Are Here*
 
 **The Dark Forest**
 
--   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
--   Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
+- Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
+- Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
 
 ## Resources
 

@@ -26,18 +26,40 @@ p, li, {
   font-family: $font-family-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-sans-serif;
+h1 {
+  font-family: #font-family-sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 30px;
 }
+
+h2, h3, h4, h5, h6 {
+  font-family: $font-family-sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
 a:link {
-  text-decoration: none;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-color: #235440;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 a:visited {
-  text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: #235440;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 a:hover {
+  color: #235440;
   text-decoration: none;
+  text-decoration-color: #235440;
+  text-decoration-thickness: 1px;
+  background-color: #9FE2BF;
 }
 a:active {
-  text-decoration: none;
+  text-decoration: underline;
 }
