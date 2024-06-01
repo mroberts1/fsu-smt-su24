@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-![](/img/216.jpeg)
+![*My Night at Maud's (Eric Rohmer, 1969)](/img/216.jpeg){.lightbox}
 
 [Byung-Chul Han](https://en.wikipedia.org/wiki/Byung-Chul_Han) is a Korean-German philosopher who is best known for his short but influential book [*The Burnout Society*](https://www.sup.org/books/title/?id=25725) (2015, originally published in German as *Müdigkeitsgesellschaft*, 2010). If you're interested, this YouTube documentary (see right) is a good introduction to Han and his work.
 

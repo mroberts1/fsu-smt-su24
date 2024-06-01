@@ -14,9 +14,9 @@ website:
       - text: Lectures
         menu:
         - text: W1 Interpassive Aggressive
-          file: /lectures/w1-interpassive.qmd
+          file: /lectures/w1-interpassive.html
         - text: W2 Digital Swarms
-          file: /lectures/w2-digital-swarms.qmd
+          file: /lectures/w2-digital-swarms.html
       - text: Resources
         menu:
         - text: TikTok Trends

@@ -38,24 +38,24 @@ These processes involve developing analytical frameworks or models comprising co
 
 By the end of the course, students will be able to:
 
--   analyze technologies past, present, and imagined
--   describe the ways in which technologies shape our world the ways in which we shape those technologies
--   explain how social media is a result of the intersection between technologies and existing human communication dynamics
--   discuss how theory of technology and social media can improve the vocational outlook of a student
--   play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
--   through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
+- analyze technologies past, present, and imagined
+- describe the ways in which technologies shape our world the ways in which we shape those technologies
+- explain how social media is a result of the intersection between technologies and existing human communication dynamics
+- discuss how theory of technology and social media can improve the vocational outlook of a student
+- play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
+- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
 ## Course Texts
 
--   These sources are either available online or excerpts will be posted on Blackboard.
+- These sources are either available online or excerpts will be posted on Blackboard.
 
--   Byung-Chul Han, *In The Swarm: Digital Prospects* (Cambridge, MA: MIT Press, 2017).
+- Byung-Chul Han, *In The Swarm: Digital Prospects* (Cambridge, MA: MIT Press, 2017).
 
--   Robert Pfaller, *Interpassivity: The Aesthetics of Delegated Enjoyment* (Edinburgh: Edinburgh University Press, 2017).
+- Robert Pfaller, *Interpassivity: The Aesthetics of Delegated Enjoyment* (Edinburgh: Edinburgh University Press, 2017).
 
--   Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
+- Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
 
--   Kaitlyn Tiffany, *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It* (Oxford: Blackwell’s, 2022).
+- Kaitlyn Tiffany, *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It* (Oxford: Blackwell’s, 2022).
 
 ## Course Info
 
@@ -69,11 +69,11 @@ PDF documents and the syllabus will be available for download in the [Course Rep
 
 ## Assignments / Evaluation
 
--   **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
--   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
--   **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
--   **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
--   **Digital Garden** (practical project, ongoing - information will be provided) (20%)
+- **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
+- **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
+- **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
+- **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
+- **Digital Garden** (practical project, ongoing - information will be provided) (20%)
 
 **Discussion: Agenda, Review, Reply Posts**\
 For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
@@ -100,15 +100,15 @@ A 1-page preliminary proposal with ideas for your project, with a short bibliogr
 
 Rob Horning, *Internal Exile* (blog)
 
--   “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
--   “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
--   Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
+- “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
+- “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
+- Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
 
 ------------------------------------------------------------------------
 
 **Week 2** M 05/27
 
-**In The Swarm**
+**Digital Swarms**
 
 - Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (*In The Swarm: Digital Prospects*, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
 - Cathy O'Neil, "Humiliation and Defiance" (*The Shame Machine: Who Profits in the New Age of Humiliation*, ch. 6)
