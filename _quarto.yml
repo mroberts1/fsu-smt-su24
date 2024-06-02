@@ -45,7 +45,7 @@ format:
     grid:
         margin-width: 350px
     linestretch: 1.5
-    fontsize: 1.1em
+    fontsize: 1em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
