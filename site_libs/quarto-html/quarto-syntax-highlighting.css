@@ -33,7 +33,7 @@
 
 /* other quarto variables */
 :root {
-  --quarto-font-monospace: "IBM Plex Mono", "Roboto Mono", monospace, monospace;
+  --quarto-font-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospace, monospace;
 }
 
 pre > code.sourceCode > span {
