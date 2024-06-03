@@ -35,17 +35,17 @@ format:
   html:
     toc: true
     toc-depth: 2
-    toc-location: right
+    toc-location: left
     toc-title: '   '
     theme:
       light: ember.scss
-      dark: [ember.scss, vapor]
+      dark: [ember.scss, slate]
     css: custom.scss
     self-contained: true
     grid:
         margin-width: 350px
     linestretch: 1.5
-    fontsize: 1em
+    fontsize: 1.1em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
