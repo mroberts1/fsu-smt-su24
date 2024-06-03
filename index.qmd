@@ -23,14 +23,14 @@ Instructor: Dr. Martin Roberts\
 
 ## Introduction
 
-The term *social media* is popularly understood as referring to corporate-owned, advertising-funded communication *platforms* based on *user-generated content*: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated *practices* of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of *social media theory*. But what does it mean to theorize social media? Why do we need social media theory at all?
+The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
 
 To theorize something involves a number of processes:
 
--   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
--   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
--   what is its relation to larger areas of society? What are its implications for those areas?
--   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
+- first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
+- how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
+- what is its relation to larger areas of society? What are its implications for those areas?
+- how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
@@ -49,13 +49,13 @@ By the end of the course, students will be able to:
 
 - These sources are either available online or excerpts will be posted on Blackboard.
 
-- Byung-Chul Han, *In The Swarm: Digital Prospects* (Cambridge, MA: MIT Press, 2017).
+- Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
 
-- Robert Pfaller, *Interpassivity: The Aesthetics of Delegated Enjoyment* (Edinburgh: Edinburgh University Press, 2017).
+- Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
 
-- Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
+- Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
-- Kaitlyn Tiffany, *Everything I Need I Get From You: How Fangirls Created the Internet as We Know It* (Oxford: Blackwell’s, 2022).
+- Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
 
 ## Course Info
 
@@ -98,7 +98,7 @@ A 1-page preliminary proposal with ideas for your project, with a short bibliogr
 
 **Interpassive Aggressive**
 
-Rob Horning, *Internal Exile* (blog)
+Rob Horning, **Internal Exile** (blog)
 
 - “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
 - “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
@@ -110,8 +110,8 @@ Rob Horning, *Internal Exile* (blog)
 
 **Digital Swarms**
 
-- Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (*In The Swarm: Digital Prospects*, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
-- Cathy O'Neil, "Humiliation and Defiance" (*The Shame Machine: Who Profits in the New Age of Humiliation*, ch. 6)
+- Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
+- Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6)
 \[[pdf](pdf/shame-machine-karens.pdf)\]
 
 
@@ -121,7 +121,7 @@ Rob Horning, *Internal Exile* (blog)
 
 **Selfies**
 
-- Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (*Medium*, 17 March 2023)
+- Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
 
 ------------------------------------------------------------------------
 
@@ -129,8 +129,8 @@ Rob Horning, *Internal Exile* (blog)
 
 **Fangirls**
 
-- Nancy Baym, “Introduction: The Intimate Work of Connection” (*Playing to the Crowd*, Introduction)
-- Kaitlyn Tiffany, *Everything I Need I Get From You* (it's a big excerpt - read at least the Introduction and the first couple of chapters)
+- Nancy Baym, “Introduction: The Intimate Work of Connection” (**Playing to the Crowd**, Introduction)
+- Kaitlyn Tiffany, **Everything I Need I Get From You** (it's a big excerpt - read at least the Introduction and the first couple of chapters)
 
 ------------------------------------------------------------------------
 
@@ -138,9 +138,9 @@ Rob Horning, *Internal Exile* (blog)
 
 **Females**
 
-- [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (*WIRED*, 11 September 2023)
+- [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (**WIRED**, 11 September 2023)
 
-- Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (*heyalma*, 10 August 2017)
+- Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (**heyalma**, 10 August 2017)
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ Rob Horning, *Internal Exile* (blog)
 
 **Toxic Cleanup**
 
-Ryan Milner and Whitney Phillips, *You Are Here*
+Ryan Milner and Whitney Phillips, **You Are Here**
 
 - ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
 - ch. 6: "Choose Your Own Ethics Adventure"
@@ -168,33 +168,33 @@ Ryan Milner and Whitney Phillips, *You Are Here*
 
 ## Bibliography
 
-danah boyd, *It's Complicated: The Social Lives of Networked Teens* (New Haven: Yale University Press, 2014).
+danah boyd, **It's Complicated: The Social Lives of Networked Teens** (New Haven: Yale University Press, 2014).
 
-Amy Bruckman, *Should You Believe Wikipedia? Online Communities and the Construction of Knowledge* (Cambridge: Cambridge University Press, 2022).
+Amy Bruckman, **Should You Believe Wikipedia? Online Communities and the Construction of Knowledge** (Cambridge: Cambridge University Press, 2022).
 
-Finn Brunton and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (Cambridge: MIT Press, 2016).
+Finn Brunton and Helen Nissenbaum, **Obfuscation: A User's Guide for Privacy and Protest** (Cambridge: MIT Press, 2016).
 
-Gabriella Coleman, *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous* (London and New York: Verso, 2014).
+Gabriella Coleman, **Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous** (London and New York: Verso, 2014).
 
-Claire Dederer, *Monsters: A Fan's Dilemma* (New York: Alfred A. Knopf, 2023).
+Claire Dederer, **Monsters: A Fan's Dilemma** (New York: Alfred A. Knopf, 2023).
 
-Sarah J. Jackson, Moya Bailey, et al., *#Hashtag Activism: Networks of Race and Gender Justice* (Cambridge: MIT Press, 2020).
+Sarah J. Jackson, Moya Bailey, et al., **#Hashtag Activism: Networks of Race and Gender Justice** (Cambridge: MIT Press, 2020).
 
-Lori Kido Lopez, *Race and Media: Critical Approaches* (New York: New York University Press, 2020).
+Lori Kido Lopez, **Race and Media: Critical Approaches** (New York: New York University Press, 2020).
 
-Gary Marcus & Ernest Davis, *Rebooting AI: Building Artificial Intelligence We Can Trust* (New York: Pantheon Books, 2019).
+Gary Marcus & Ernest Davis, **Rebooting AI: Building Artificial Intelligence We Can Trust** (New York: Pantheon Books, 2019).
 
-Gretchen McCulloch, *Because Internet: Understanding the New Rules of Language* (New York: Riverhead Books, 2019).
+Gretchen McCulloch, **Because Internet: Understanding the New Rules of Language** (New York: Riverhead Books, 2019).
 
-Angela Nagle, *Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right* (Alresford, Hampshire, UK: Zero Books, 2017).
+Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017).
+*
+Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
 
-Cathy O'Neil, with Stephen Baker, *The Shame Machine: Who Profits in the New Age of Humiliation* (New York: Crown/Random House, 2022).
+Whitney Phillips, **This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture** (Cambridge: MIT Press, 2015).
 
-Whitney Phillips, *This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture* (Cambridge: MIT Press, 2015).
+Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
-Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
-
-Allissa V, Richardson, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
+Allissa V, Richardson, **Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism** (Oxford: Oxford University Press, 2020).
 
 ## Late Policy
 
