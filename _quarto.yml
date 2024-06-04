@@ -9,15 +9,15 @@ website:
     background: "#235440"
     search: true
     left:
-      - text: Home
+      - text: home
         file: index.qmd
-      - text: Lectures
+      - text: lectures
         menu:
         - text: W1 Interpassive Aggressive
           file: /lectures/w1-interpassive.html
         - text: W2 Digital Swarms
           file: /lectures/w2-digital-swarms.html
-      - text: Resources
+      - text: resources
         menu:
         - text: TikTok Trends
           file: tt-trends.qmd
@@ -35,7 +35,7 @@ format:
   html:
     toc: true
     toc-depth: 2
-    toc-location: left
+    toc-location: right
     toc-title: '   '
     theme:
       light: ember.scss
@@ -43,7 +43,8 @@ format:
     css: custom.scss
     self-contained: true
     grid:
-        margin-width: 400px
+        sidebar-width: 400px
+        body-width: 600px
     linestretch: 1.2
     fontsize: 1em
     smooth-scroll: true
