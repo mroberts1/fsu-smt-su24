@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w1-interpassive.html</loc>
-    <lastmod>2024-05-27T16:02:25.378Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w3-selfies.html</loc>
+    <lastmod>2024-06-06T17:19:42.299Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/about.html</loc>
-    <lastmod>2024-05-27T16:02:25.294Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w2-digital-swarms.html</loc>
+    <lastmod>2024-06-01T09:32:39.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/index.html</loc>
+    <lastmod>2024-06-06T15:42:38.201Z</lastmod>
   </url>
   <url>
     <loc>https://mroberts1.github.io/fsu-smt-su24/tt-trends.html</loc>
     <lastmod>2024-05-27T16:02:25.436Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/index.html</loc>
-    <lastmod>2024-06-04T00:20:00.131Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/about.html</loc>
+    <lastmod>2024-05-27T16:02:25.294Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w2-digital-swarms.html</loc>
-    <lastmod>2024-06-01T09:32:39.430Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su24/lectures/w1-interpassive.html</loc>
+    <lastmod>2024-05-27T16:02:25.378Z</lastmod>
   </url>
 </urlset>
