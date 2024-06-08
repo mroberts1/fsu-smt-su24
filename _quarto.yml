@@ -65,7 +65,7 @@ format:
 fig-responsive: true
 image-alt: " "
 execute:
-  echo: false
+  freeze: auto
 reference-location: margin
 citation-location: margin
 editor: visual
