@@ -1,0 +1,39 @@
+---
+title: ' '
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+### Mastodon
+
+For a quick intro, watch this video:
+
+{{< video https://youtu.be/S57uhCQBEk0 >}}
+
+Then read one or more of these articles:
+
+-   [A Friendly Introduction to the Fediverse](https://medium.com/@VirtualAdept/a-friendly-introduction-to-the-fediverse-5b4ef3f8ed0e)
+-   [Guide to the Fediverse](https://torresjrjr.com/archive/2020-07-19-guide-to-the-fediverse)
+-   [What Is Mastodon?](https://spaceshipsin.space/blog/what-is-mastodon.html)
+
+If you're wondering why you should care about distributed social networks, read [this article](https://medium.com/@npfoss/the-case-for-a-decentralized-social-network-2683b727abf5).
+
+Mastodon is a loosely-connected network of communities, similar in some ways to the federated  structure of the U.S. itself - hence the term **fediverse**. You can think of it like a large, interconnected network of Twitters, albeit without ads or data-collecting. Mastodon (like Pleroma) is basically software that enables anyone to set up their own social media server and host a community on it - you can even do it [yourself](https://federation.spacebear.ee). 
+
+Each Mastodon community (more commonly known as an **instance**) has its own particular flavor, and there are communities in many languages. Each community also has its terms of service, that you should read carefully and observe.
+
+Mastodon instances vary in size from just a handful of members to thousands. Many allow you to register a new account without approval, but for a lot you have to submit a registration request and may not be approved because some instances limit numbers to people who are referred by existing members. This is because communities typically have a very specific focus, whatever that may be. My own community, for example, is comprised mainly of coders, game designers, and digital artists. You can still read posts, though - if you're interested, here's my [account page](https://merveilles.town/web/accounts/6363).
+
+Instances are connected with one another, so that you only need to set up an account on one. If you follow someone on a different instance, that person's posts on that instance will appear in your feed on your instance - the federated model again.
+
+Of course, if people on one instance don't like the community on another, for whatever reason, they can simply disconnect from it. So the affordances of instances, and the relations between them, are quite resilient against the usual abuses of social media like trolling, spamming, etc.
+
+Choosing an instance to register with may seem tricky at the beginning because there are so many! Take your time, and keep in mind that you can always switch instances later if you find another one that you like better - or just have multiple accounts on several instances (I have 5-6).
+
+After you join a community, just hang out there and see what goes on. Be sure to follow the account [\@feditips\@mstdn.social](https://merveilles.town/web/accounts/99753), which has lots of useful tips about using Mastodon and other distributed services.

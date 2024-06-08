@@ -1,5 +1,5 @@
 ---
-title: "W3: Smile for the Camera: Selfies"
+title: '  '
 ---
 
 ```{r}
@@ -10,8 +10,10 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
--   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
--   Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
+### W3: Smile for the Camera: Selfies
+
+- Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
+- Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
 
 ### AI and the American Smile
 
@@ -34,7 +36,7 @@ The central question raised by Gurfinkel's argument, however, stems from its tit
 In answer to this, I would add one other example to the discussion of the cultural dimension of smiling: what I would call the **subaltern smile**. ("Subaltern" here refers to a form of social subjectivity that has internalized structures of domination and accept, even welcome, their position of subservience). From this standpoint, the smile is a sign of subservience, of **eagerness to be of service** - is there anything else I can do for you? As the example of the Russian bank teller in the US shows, such smiling is often not just a social but a professional requirement, a form of coercion. In his book **Black Skin, White Masks**, the postcolonial theorist Franz Fanon writes about how during imperialism Africans were expected to **smile** for their colonial masters, as a sign of their willing acceptance of their subservient role. There are numerous examples of this, but the most famous one is the ubiquitous image of the WW1/WW2 African infantryman in the French army (the *tirailleur sénégalais*) that was used for the chocolate milk brand [Banania](https://en.wikipedia.org/wiki/Banania).
 
 ::: column-margin
-![](/img/banania.jpg){.lightbox width=200}
+![](/img/banania.jpg){.lightbox width="200"}
 :::
 
 We see from this example that Gurfinkel's point that smiling is a sign of confidence or power does not always apply, that smiling has many other cultural meanings.
@@ -42,7 +44,7 @@ We see from this example that Gurfinkel's point that smiling is a sign of confid
 What if AIs were trained not on models of American smiles but African ones? In light of the history of slavery, how awkward does this make the AI selfie of "Ancient African Tribal Warriors"?
 
 ::: column-margin
-![](/img/african-ai.webp){.lightbox width=200}
+![](/img/african-ai.webp){.lightbox width="200"}
 :::
 
 ------------------------------------------------------------------------
@@ -52,7 +54,7 @@ What if AIs were trained not on models of American smiles but African ones? In l
 The discussion of "smiling for the camera" is itself part of the larger study of the selfe in social media, a field that is much more developed than you would ever believe. To get an idea of the scope of this field, you could start with the [Selfies Research Network](https://selfieresearchers.com/), founded (as far as I know) by [Theresa Senft](https://researchers.mq.edu.au/en/persons/theresa-m-senft) and other colleagues, notably [Alice Marwick](https://tiara.org/). In light of this week's reading, you may be struck by Alice's authentically American smile!
 
 ::: column-margin
-![](/img/alice-marwick.jpeg){.lightbox width=200}
+![](/img/alice-marwick.jpeg){.lightbox width="200"}
 :::
 
 If you're interested in exploring selfie culture for your research paper, there are many directions you could go, including music video:

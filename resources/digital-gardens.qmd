@@ -1,0 +1,23 @@
+---
+title: ' '
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+### Digital Gardens
+
+Maggie Appleton, [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) repo
+
+[Hyperdraft](https://hyperdraft.rosano.ca/en/)
+
+[Terminal Beach](https://dokoissho.hmm.garden/) (my Hyperdraft)
+
+[5apps.com](https://5apps.com/storage) (data hosting for Hyperdraft sites)
+
+[Jekyll Garden](https://jekyll-garden.github.io/)

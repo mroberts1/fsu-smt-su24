@@ -1,5 +1,5 @@
 ---
-title: "W1: Interpassive Aggressive"
+title: '  '
 ---
 
 ```{r}
@@ -10,15 +10,17 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
+### W1: Interpassive Aggressive
+
 I hope that by now you’ve had chance to look at at least the first of the articles by Rob Horning, and hopefully also some of the sources that he links to - especially the *New York Times* articles about TikTok (hereafter TT).
 
 As you know, he references Becky Hughes’s short piece about TT recipe videos, which is really good. I’ve also posted a page with links from the TT trends article on the [syllabus outside Blackboard](https://mroberts1.github.io/fsu-smt-su24/) (see the dropdown menu under Resources).
 
 So there are a few things I was thinking about in selecting this reading assignment for us to get started with:
 
-- What does it mean exactly to “theorize” about “social media”?
-- What exactly does the term “social media” cover anyway?
-- How do we even begin to “theorize” about a SM platform like TikTok and the many cultures proliferating on it?
+-   What does it mean exactly to “theorize” about “social media”?
+-   What exactly does the term “social media” cover anyway?
+-   How do we even begin to “theorize” about a SM platform like TikTok and the many cultures proliferating on it?
 
 Rob Horning’s critique at least gives us a place to start, and an example of engaging in critical analysis of (commonly known as “theorizing”) social media. I guess the first thing to note is that it is a *critique* - that is, he is making critical observations about the platform, rather than either celebrating or demonizing it, as so many other accounts seem to. What kind of “observations” are these exactly?
 
@@ -32,13 +34,13 @@ So Horning is drawing on what can be called an “old-school Marxist” model of
 
 Other than Spectacle, the other key theme running through Horning’s article is the notion of **passivity**. This too, comes out of the 20C Marxist critiques of media. Horning even quotes Debord on this: “\[The spectacle\] is the sun that never sets on the empire of modern **passivity**. It covers the entire globe, basking in the perpetual warmth of its own glory.”
 
-The idea of communication as an essentially “passive” absorption of media messages was still widespread in the 1960s, but began to be questioned by the field of cultural studies from the 1980s onwards, with the idea of the **active audience** (work by Ien Ang, John Fiske, and Stuart Hall in particular). With the arrival of videogames, personal computers, the internet, and the web in the subsequent decade, the focus shifted to a paradigm of **interactivity**, a different kind of active agency in people’s engagement with communication technologies. Although the older media effects model of passivity (the audience as essentially a blank slate that is manipulated by media messages) has continued regardless, including in contemporary critiques of social media, in fields like media and cultural  studies–rather than say psychology–it is regarded as discredited.
+The idea of communication as an essentially “passive” absorption of media messages was still widespread in the 1960s, but began to be questioned by the field of cultural studies from the 1980s onwards, with the idea of the **active audience** (work by Ien Ang, John Fiske, and Stuart Hall in particular). With the arrival of videogames, personal computers, the internet, and the web in the subsequent decade, the focus shifted to a paradigm of **interactivity**, a different kind of active agency in people’s engagement with communication technologies. Although the older media effects model of passivity (the audience as essentially a blank slate that is manipulated by media messages) has continued regardless, including in contemporary critiques of social media, in fields like media and cultural studies–rather than say psychology–it is regarded as discredited.
 
-A more recent and intriguing concept that has emerged over the past decade, however, and which is referenced by Horning, is the notion of **interpassivity** (as opposed to the more familiar **interactivity**). The main source on this is Robert Pfaller’s book on the subject from 2017, whose introduction I’ve provided as a PDF on Blackboard. Interpassivity essentially refers to the idea of experiencing pleasure vicariously, via a third party–whether human or non-human. It can be suggested–and I am sure Rob Horning would agree with this–that it has become one of the fundamental principles of today’s  attention economy, from reaction videos to influencer travel vlogs and, yes, recipe videos. The point is always that someone–or some**thing**–does it for you, on your behalf as it were. The interpassive agent doesn’t have to be human at all–for example, since the 1980s a VCR “watches” TV shows for you and saves them; algorithms decide for you what to watch, based on your past preferences; a reading app like Blinkist, which provides summaries of bestselling books, reads books for you and provides 15-minute summaries; and so on. There are many other examples; read the intro to Pfaller’s book and you’ll quickly understand how useful the concept of interpassivity can be.
+A more recent and intriguing concept that has emerged over the past decade, however, and which is referenced by Horning, is the notion of **interpassivity** (as opposed to the more familiar **interactivity**). The main source on this is Robert Pfaller’s book on the subject from 2017, whose introduction I’ve provided as a PDF on Blackboard. Interpassivity essentially refers to the idea of experiencing pleasure vicariously, via a third party–whether human or non-human. It can be suggested–and I am sure Rob Horning would agree with this–that it has become one of the fundamental principles of today’s attention economy, from reaction videos to influencer travel vlogs and, yes, recipe videos. The point is always that someone–or some**thing**–does it for you, on your behalf as it were. The interpassive agent doesn’t have to be human at all–for example, since the 1980s a VCR “watches” TV shows for you and saves them; algorithms decide for you what to watch, based on your past preferences; a reading app like Blinkist, which provides summaries of bestselling books, reads books for you and provides 15-minute summaries; and so on. There are many other examples; read the intro to Pfaller’s book and you’ll quickly understand how useful the concept of interpassivity can be.
 
-Other than spectacle and interpassivity, a third concept that we could explore here is simply **entertainment** in contemporary social media or digital culture. Horning suggests that on TT, what he calls  “attention-getting” in itself has evolved into a new form of entertainment in its own right. I wonder what you think of this idea. A similar point is made at the end of the article about AI chatbots and their simulation of “artificial intelligence” rather than actual intelligence in any meaningful–that is to say human–sense. This takes us back to the famous idea of the **Turing Test** (ask me about this or look it up) for artificial intelligence: the idea that any computer that could pass as human must therefore be considered to be “intelligent”. The test was debunked decades ago–being able to fool someone into thinking the chatbot is a “real person” doesn’t in any way mean that it is “intelligent”–but continues to be influential today. What Horning is suggesting is that the Turing Test has become a contemporary form of chatbot-based entertainment, rather than of any practical utility (which would require it to be actually intelligent). At this point, as Gary Marcus and Ernie Jones describe in their excellent book **Rebooting AI**, even the most state-of-the-art system isn’t capable of reading and understanding even a children’s story, in terms of the inferences that it contains rather than what is explicitly stated (and can therefore be pattern-matched). So for the moment, we are left with what Max Read describes as a magic trick:
+Other than spectacle and interpassivity, a third concept that we could explore here is simply **entertainment** in contemporary social media or digital culture. Horning suggests that on TT, what he calls “attention-getting” in itself has evolved into a new form of entertainment in its own right. I wonder what you think of this idea. A similar point is made at the end of the article about AI chatbots and their simulation of “artificial intelligence” rather than actual intelligence in any meaningful–that is to say human–sense. This takes us back to the famous idea of the **Turing Test** (ask me about this or look it up) for artificial intelligence: the idea that any computer that could pass as human must therefore be considered to be “intelligent”. The test was debunked decades ago–being able to fool someone into thinking the chatbot is a “real person” doesn’t in any way mean that it is “intelligent”–but continues to be influential today. What Horning is suggesting is that the Turing Test has become a contemporary form of chatbot-based entertainment, rather than of any practical utility (which would require it to be actually intelligent). At this point, as Gary Marcus and Ernie Jones describe in their excellent book **Rebooting AI**, even the most state-of-the-art system isn’t capable of reading and understanding even a children’s story, in terms of the inferences that it contains rather than what is explicitly stated (and can therefore be pattern-matched). So for the moment, we are left with what Max Read describes as a magic trick:
 
-> a few years in to the generative-A.I. craze, it seems pretty clear to me that these apps, in their current instantiation, are best thought of, like magic tricks, as a form of entertainment. They produce entertainments, yes–images, audio, video, text, shitposts–-but they also are entertainments themselves. Interactions with chatbots like GPT-4o may be incidentally informative or productive, but they are chiefly meant to be _entertaining_, hence the focus on spookily impressive but useless frippery like emotional affect.
+> a few years in to the generative-A.I. craze, it seems pretty clear to me that these apps, in their current instantiation, are best thought of, like magic tricks, as a form of entertainment. They produce entertainments, yes–images, audio, video, text, shitposts–-but they also are entertainments themselves. Interactions with chatbots like GPT-4o may be incidentally informative or productive, but they are chiefly meant to be *entertaining*, hence the focus on spookily impressive but useless frippery like emotional affect.
 
 As Horning concludes:
 
@@ -47,13 +49,3 @@ As Horning concludes:
 The ultimate purpose of the magic trick, he is suggesting, is to keep us watching, playing, chatting–because as long as we do that we are paying attention, and our attention is what advertisers are willing to pay a lot of money to SM platforms for. So ultimately, his argument comes down to a political-economic critique, a catalog of the “magic tricks” by which we are induced to keep engaging with the platform (including now, the chatbot platform). So we are left with Neil Postman’s old critique of mass media: are we simply “amusing ourselves to death?”
 
 I think we are not at all obliged to buy into these arguments, but to consider and scrutinize them carefully. This is the essence of a critical-thinking approach. I think it can in many ways be argued that they are reductive, particularly in the context of the proliferating practices of a platform such as TT (as well documented in the *NYT* feature). In any event, I hope this gives you some things to think about in relation to social media, “theory”, and the contemporary cultural fascination with AI chatbots.
-
-
-
-
-
-
-
-
-
-

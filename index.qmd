@@ -1,5 +1,5 @@
 ---
-title: "COMM 7018: Social Media Theory"
+title: '  '
 ---
 
 ```{r}
@@ -9,6 +9,7 @@ title: "COMM 7018: Social Media Theory"
 library(tidyverse)
 library(palmerpenguins)
 ```
+# COMM 7018: Social Media Theory
 
 ::: {layout="[[40, 60]]"}
 [![](img/polyducks.gif)](https://www.polyducks.co.uk)
@@ -27,10 +28,10 @@ The term **social media** is popularly understood as referring to corporate-owne
 
 To theorize something involves a number of processes:
 
-- first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
-- how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
-- what is its relation to larger areas of society? What are its implications for those areas?
-- how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
+-   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
+-   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
+-   what is its relation to larger areas of society? What are its implications for those areas?
+-   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
@@ -38,24 +39,24 @@ These processes involve developing analytical frameworks or models comprising co
 
 By the end of the course, students will be able to:
 
-- analyze technologies past, present, and imagined
-- describe the ways in which technologies shape our world the ways in which we shape those technologies
-- explain how social media is a result of the intersection between technologies and existing human communication dynamics
-- discuss how theory of technology and social media can improve the vocational outlook of a student
-- play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
-- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
+-   analyze technologies past, present, and imagined
+-   describe the ways in which technologies shape our world the ways in which we shape those technologies
+-   explain how social media is a result of the intersection between technologies and existing human communication dynamics
+-   discuss how theory of technology and social media can improve the vocational outlook of a student
+-   play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
+-   through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
 ## Course Texts
 
-- These sources are either available online or excerpts will be posted on Blackboard.
+-   These sources are either available online or excerpts will be posted on Blackboard.
 
-- Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
+-   Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
 
-- Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
+-   Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
 
-- Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
+-   Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
-- Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
+-   Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
 
 ## Course Info
 
@@ -69,11 +70,11 @@ PDF documents and the syllabus will be available for download in the [Course Rep
 
 ## Assignments / Evaluation
 
-- **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
-- **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
-- **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
-- **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
-- **Digital Garden** (practical project, ongoing - information will be provided) (20%)
+-   **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
+-   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
+-   **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
+-   **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
+-   **Digital Garden** (practical project, ongoing - information will be provided) (20%)
 
 **Discussion: Agenda, Review, Reply Posts**\
 For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
@@ -100,9 +101,9 @@ A 1-page preliminary proposal with ideas for your project, with a short bibliogr
 
 Rob Horning, **Internal Exile** (blog)
 
-- “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
-- “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
-- Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
+-   “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
+-   “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
+-   Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
 
 ------------------------------------------------------------------------
 
@@ -110,10 +111,8 @@ Rob Horning, **Internal Exile** (blog)
 
 **Digital Swarms**
 
-- Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
-- Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6)
-\[[pdf](pdf/shame-machine-karens.pdf)\]
-
+-   Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
+-   Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6) \[[pdf](pdf/shame-machine-karens.pdf)\]
 
 ------------------------------------------------------------------------
 
@@ -121,8 +120,8 @@ Rob Horning, **Internal Exile** (blog)
 
 **Smile for the Camera: Selfies**
 
-- Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
-- Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
+-   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
+-   Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
 
 ------------------------------------------------------------------------
 
@@ -130,8 +129,8 @@ Rob Horning, **Internal Exile** (blog)
 
 **Fangirls**
 
-- Nancy Baym, “Introduction: The Intimate Work of Connection” (**Playing to the Crowd**, Introduction)
-- Kaitlyn Tiffany, **Everything I Need I Get From You** (it's a big excerpt - read at least the Introduction and the first couple of chapters)
+-   Nancy Baym, “Introduction: The Intimate Work of Connection” (**Playing to the Crowd**, Introduction)
+-   Kaitlyn Tiffany, **Everything I Need I Get From You** (it's a big excerpt - read at least the Introduction and the first couple of chapters)
 
 ------------------------------------------------------------------------
 
@@ -139,9 +138,9 @@ Rob Horning, **Internal Exile** (blog)
 
 **Females**
 
-- [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (**WIRED**, 11 September 2023)
+-   [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (**WIRED**, 11 September 2023)
 
-- Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (**heyalma**, 10 August 2017)
+-   Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (**heyalma**, 10 August 2017)
 
 ------------------------------------------------------------------------
 
@@ -151,8 +150,8 @@ Rob Horning, **Internal Exile** (blog)
 
 Ryan Milner and Whitney Phillips, **You Are Here**
 
-- ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
-- ch. 6: "Choose Your Own Ethics Adventure"
+-   ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
+-   ch. 6: "Choose Your Own Ethics Adventure"
 
 ------------------------------------------------------------------------
 
@@ -160,8 +159,8 @@ Ryan Milner and Whitney Phillips, **You Are Here**
 
 **The Dark Forest**
 
-- Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
-- Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
+-   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
+-   Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
 
 ## Resources
 
@@ -187,9 +186,7 @@ Gary Marcus & Ernest Davis, **Rebooting AI: Building Artificial Intelligence We 
 
 Gretchen McCulloch, **Because Internet: Understanding the New Rules of Language** (New York: Riverhead Books, 2019).
 
-Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017).
-*
-Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
+Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017). \* Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
 
 Whitney Phillips, **This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture** (Cambridge: MIT Press, 2015).
 

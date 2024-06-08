@@ -21,8 +21,12 @@ website:
           file: /lectures/w3-selfies.html
       - text: Resources
         menu:
+        - text: Digital Gardens
+          file: /resources/digital-gardens.html
+        - text: Mastodon
+          file: /resources/mastodon.html
         - text: TikTok Trends
-          file: tt-trends.qmd
+          file: /resources/tt-trends.html
     right:
       - icon: envelope
         aria-label: envelope
