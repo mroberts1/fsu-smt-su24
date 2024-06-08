@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-### Digital Gardens
+#### Digital Gardens
 
 Maggie Appleton, [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) repo
 

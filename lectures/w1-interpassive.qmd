@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-### W1: Interpassive Aggressive
+#### W1: Interpassive Aggressive
 
 I hope that by now you’ve had chance to look at at least the first of the articles by Rob Horning, and hopefully also some of the sources that he links to - especially the *New York Times* articles about TikTok (hereafter TT).
 

@@ -14,19 +14,19 @@ website:
       - text: Lectures
         menu:
         - text: W1 Interpassive Aggressive
-          file: /lectures/w1-interpassive.html
+          file: /lectures/w1-interpassive.qmd
         - text: W2 Digital Swarms
-          file: /lectures/w2-digital-swarms.html
+          file: /lectures/w2-digital-swarms.qmd
         - text: W3 Selfies
-          file: /lectures/w3-selfies.html
+          file: /lectures/w3-selfies.qmd
       - text: Resources
         menu:
         - text: Digital Gardens
-          file: /resources/digital-gardens.html
+          file: /resources/digital-gardens.qmd
         - text: Mastodon
-          file: /resources/mastodon.html
+          file: /resources/mastodon.qmd
         - text: TikTok Trends
-          file: /resources/tt-trends.html
+          file: /resources/tt-trends.qmd
     right:
       - icon: envelope
         aria-label: envelope

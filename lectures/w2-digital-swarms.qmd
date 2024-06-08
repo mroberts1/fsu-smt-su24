@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-### W2: Digital Swarms
+#### W2: Digital Swarms
 
 ![*My Night at Maud's* (Eric Rohmer, 1969)](/img/216.jpeg){.lightbox}
 

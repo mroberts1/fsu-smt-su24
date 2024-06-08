@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-### Mastodon
+#### Mastodon
 
 For a quick intro, watch this video:
 
