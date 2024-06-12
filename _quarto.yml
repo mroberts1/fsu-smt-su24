@@ -14,19 +14,19 @@ website:
       - text: Lectures
         menu:
         - text: W1 Interpassive Aggressive
-          file: /lectures/w1-interpassive.qmd
+          file: lectures/w1-interpassive.qmd
         - text: W2 Digital Swarms
-          file: /lectures/w2-digital-swarms.qmd
+          file: lectures/w2-digital-swarms.qmd
         - text: W3 Selfies
-          file: /lectures/w3-selfies.qmd
+          file: lectures/w3-selfies.qmd
       - text: Resources
         menu:
         - text: Digital Gardens
-          file: /resources/digital-gardens.qmd
+          file: resources/digital-gardens.qmd
         - text: Mastodon
-          file: /resources/mastodon.qmd
+          file: resources/mastodon.qmd
         - text: TikTok Trends
-          file: /resources/tt-trends.qmd
+          file: resources/tt-trends.qmd
     right:
       - icon: envelope
         aria-label: envelope
@@ -41,7 +41,7 @@ format:
   html:
     toc: true
     toc-depth: 2
-    toc-location: left
+    toc-location: right
     toc-title: '   '
     theme:
       light: ember.scss
@@ -49,19 +49,15 @@ format:
     css: custom.scss
     self-contained: true
     grid:
-        margin-width: 350px
-    linestretch: 1.5
-    fontsize: 1.1em
+        # sidebar-width: 200px
+        body-width: 500px
+        # margin-width: 200px
+        # gutter-width: 2em
+    linestretch: 1.2
+    fontsize: 1em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
-  # typst:
-    # papersize: us-letter
-    #mainfont: "Source Sans"
-    #fontsize: 14pt
-    #margin:
-     # x: 1.25in
-      #y: 1.25in
 fig-responsive: true
 image-alt: " "
 execute:

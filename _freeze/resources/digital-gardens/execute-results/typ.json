@@ -1,0 +1,17 @@
+{
+  "hash": "219150bc82c29c0f28f7573236af299c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: ' '\n---\n\n\n\n\n\n\n#### Digital Gardens\n\nMaggie Appleton, [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) repo\n\n[Hyperdraft](https://hyperdraft.rosano.ca/en/)\n\n[Terminal Beach](https://dokoissho.hmm.garden/) (my Hyperdraft)\n\n[5apps.com](https://5apps.com/storage) (data hosting for Hyperdraft sites)\n\n[Jekyll Garden](https://jekyll-garden.github.io/)\n",
+    "supporting": [
+      "digital-gardens_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
