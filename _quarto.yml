@@ -5,28 +5,35 @@ project:
 
 website:
   title: "  "
+  sidebar:
+    search: true
+    style: "floating"
+    collapse-level: 1
+    contents:
+        - text: Home
+          file: index.qmd
+        - section: "Lectures"
+          contents:
+            - text: W1 Interpassive Aggressive
+              file: lectures/w1-interpassive.qmd
+            - text: W2 Digital Swarms
+              file: lectures/w2-digital-swarms.qmd
+            - text: W3 Selfies
+              file: lectures/w3-selfies.qmd
+            - text: W4 Fangirls
+              file: lectures/w4-fangirls.qmd
+            - text: W5 Females
+              file: lectures/w5-females.qmd
+        - section: "Resources"
+          contents:
+            - text: Digital Gardens
+              file: resources/digital-gardens.qmd
+            - text: Mastodon
+              file: resources/mastodon.qmd
+            - text: TikTok Trends
+              file: resources/tt-trends.qmd
   navbar:
     background: "#235440"
-    search: true
-    left:
-      - text: Home
-        file: index.qmd
-      - text: Lectures
-        menu:
-        - text: W1 Interpassive Aggressive
-          file: lectures/w1-interpassive.qmd
-        - text: W2 Digital Swarms
-          file: lectures/w2-digital-swarms.qmd
-        - text: W3 Selfies
-          file: lectures/w3-selfies.qmd
-      - text: Resources
-        menu:
-        - text: Digital Gardens
-          file: resources/digital-gardens.qmd
-        - text: Mastodon
-          file: resources/mastodon.qmd
-        - text: TikTok Trends
-          file: resources/tt-trends.qmd
     right:
       - icon: envelope
         aria-label: envelope
@@ -50,7 +57,7 @@ format:
     self-contained: true
     grid:
         # sidebar-width: 200px
-        body-width: 500px
+        body-width: 650px
         # margin-width: 200px
         # gutter-width: 2em
     linestretch: 1.2

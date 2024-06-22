@@ -12,6 +12,10 @@ library(palmerpenguins)
 
 #### Digital Gardens
 
+Maggie Appleton, "[A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)"
+
+Tanya Basu, "[Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)" (*Technology Review*, 3 September 2020)
+
 Maggie Appleton, [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) repo
 
 [Hyperdraft](https://hyperdraft.rosano.ca/en/)

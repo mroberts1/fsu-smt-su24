@@ -9,6 +9,7 @@ title: '  '
 library(tidyverse)
 library(palmerpenguins)
 ```
+
 # COMM 7018: Social Media Theory
 
 ::: {layout="[[40, 60]]"}
