@@ -4,14 +4,13 @@ project:
     - "pdf/*.pdf"
 
 website:
-  title: "  "
+  title: "Home"  
   sidebar:
     search: true
     style: "floating"
-    collapse-level: 1
+    collapse-level: 2
+    header: "header.md"
     contents:
-        - text: Home
-          file: index.qmd
         - section: "Lectures"
           contents:
             - text: W1 Interpassive Aggressive
@@ -35,12 +34,9 @@ website:
   navbar:
     background: "#235440"
     right:
-      - icon: envelope
-        aria-label: envelope
-        href: mailto:mrober40@fitchburgstate.edu
       - icon: github
         aria-label: github
-        href: https://github.com/mroberts1
+        href: https://github.com/mroberts1/fsu-smt-su24
       - icon: twitter
         aria-label: twitter
         href: https://twitter.com/mroberts_fsu
@@ -61,7 +57,7 @@ format:
         # margin-width: 200px
         # gutter-width: 2em
     linestretch: 1.2
-    fontsize: 1em
+    fontsize: 0.9em
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
