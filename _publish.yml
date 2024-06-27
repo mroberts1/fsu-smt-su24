@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: edd7f068-aa24-4a7e-a0bd-f957a8f8dada
+      url: 'https://mroberts.quarto.pub/fsu-smt-su24'

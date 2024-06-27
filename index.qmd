@@ -2,15 +2,7 @@
 title: 'COMM 7018: Social Media Theory'
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
-[![](img/polyducks.gif)](https://www.polyducks.co.uk)
+[![](img/polyducks.gif)](https://www.polyducks.co.uk){width=150%}
 
 ## Introduction
 
