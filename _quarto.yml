@@ -9,7 +9,7 @@ website:
     search: true
     style: "floating"
     collapse-level: 2
-    header: "header.md"
+    # header: "header.md"
     contents:
         - section: "Lectures"
           contents:
