@@ -61,11 +61,6 @@ format:
     smooth-scroll: true
     linkcolor: "#235440"
     link-external-newwindow: true
-  PrettyPDF-typst:
-    papersize: letter
-    margin:
-     x: 2cm
-     y: 2cm
 fig-responsive: true
 image-alt: " "
 execute:

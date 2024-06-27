@@ -1,4 +1,3 @@
-
 ---
 title: "Pretty PDFs with Quarto"
 format: PrettyPDF-typst

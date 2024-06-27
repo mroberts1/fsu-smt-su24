@@ -262,7 +262,6 @@
 
 
 #show: PrettyPDF.with(
-  title: "COMM 7018: Social Media Theory",
   typst-logo: (
     path: "\_extensions/nrennie/PrettyPDF/logo.png",
     caption: []
@@ -271,9 +270,9 @@
 
 
 
-#link("https://www.polyducks.co.uk")[#box(image("img/polyducks.gif"))]
-
-= Introduction
+= COMM 7018: Social Media Theory
+<comm-7018-social-media-theory>
+== Introduction
 <introduction>
 The term #strong[social media] is popularly understood as referring to corporate-owned, advertising-funded communication #strong[platforms] based on #strong[user-generated content];: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated #strong[practices] of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of #strong[social media theory];. But what does it mean to theorize social media? Why do we need social media theory at all?
 
@@ -286,7 +285,7 @@ To theorize something involves a number of processes:
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
-= Objectives
+== Objectives
 <objectives>
 By the end of the course, students will be able to:
 
@@ -297,7 +296,7 @@ By the end of the course, students will be able to:
 - play a productive role in and facilitate conversations that tease out the relationships between values and technology. \
 - through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
-= Course Texts
+== Course Texts
 <course-texts>
 - These sources are either available online or excerpts will be posted on Blackboard.
 
@@ -309,7 +308,7 @@ By the end of the course, students will be able to:
 
 - Kaitlyn Tiffany, #strong[Everything I Need I Get From You: How Fangirls Created the Internet as We Know It] (Oxford: Blackwell’s, 2022).
 
-= Course Info
+== Course Info
 <course-info>
 #strong[Blackboard] \
 We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
@@ -319,7 +318,7 @@ Reading assignments will be either from Required texts, linked to online, or ava
 
 PDF documents and the syllabus will be available for download in the #link("https://github.com/mroberts1/social-media-theory-summer-2022")[Course Repository] hosted on GitHub: please bookmark this link. The folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
 
-= Assignments / Evaluation
+== Assignments / Evaluation
 <assignments-evaluation>
 - #strong[Review];: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%) \
 - #strong[Discussion];: weekly after Week 1, 2-3 responses to other students’ posts., 100 words max., due by the #emph[following] Friday (20%) \
@@ -344,7 +343,7 @@ The culminating written assignment for the course (2,000 words) may consist of v
 
 A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4.
 
-= Schedule
+== Schedule
 <schedule>
 #strong[Week 1] M 05/20
 
@@ -413,11 +412,11 @@ Ryan Milner and Whitney Phillips, #strong[You Are Here]
 - Maggie Appleton, "#link("https://maggieappleton.com/cozy-web")[The Dark Forest & The Cozy Web];"
 - Yancey Strickler, "The Dark Forest Theory of the Internet"; "Beyond The Dark Forest Theory of the Internet" (2019)
 
-= Resources
+== Resources
 <resources>
 #link("https://www.abbiesr.com/about")[Abbie Richards] (TikTok researcher, Media Matters)
 
-= Bibliography
+== Bibliography
 <bibliography>
 danah boyd, #strong[It’s Complicated: The Social Lives of Networked Teens] (New Haven: Yale University Press, 2014).
 
@@ -445,15 +444,15 @@ Whitney Phillips and Ryan M. Milner, #strong[You Are Here: A Field Guide for Nav
 
 Allissa V, Richardson, #strong[Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism] (Oxford: Oxford University Press, 2020).
 
-= Late Policy
+== Late Policy
 <late-policy>
 Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
-= Mandatory Reporter
+== Mandatory Reporter
 <mandatory-reporter>
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are "mandatory reporters," which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit #link("http://fitchburgstate.edu/titleix") to access information about university support and resources.
 
-= Health
+== Health
 <health>
 #link("http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig")[Health Services]
 
@@ -471,7 +470,7 @@ FAVE collaborates with a number of community partners (e.g., YWCA Domestic Viole
 
 The university continues to partner with Our Father’s House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father’s House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each "household" may shop for nutritious food once per month by presenting a valid FSU ID.
 
-= Academic Integrity
+== Academic Integrity
 <academic-integrity>
 The University "Academic Integrity" policy can be found online at #link("http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/")[http:\/\/ www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.] Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
@@ -479,11 +478,11 @@ Plagiarism includes, but is not limited to: - Using papers or work from another 
 
 #emph[If you’re not clear on what is or is not plagiarism, ASK. The BEST case scenario if caught is a zero on that assignment, and ignorance of what does or does not count is not an excuse. That being said, I’m a strong supporter of] #link("https://en.wikipedia.org/wiki/Fair_Use")[#emph[Fair Use];] #emph[doctrine. Just attribute what you use–and, again, ASK if there’s any doubt.]
 
-= Americans With Disabilities Act (ADA)
+== Americans With Disabilities Act (ADA)
 <americans-with-disabilities-act-ada>
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
 
-= Technology
+== Technology
 <technology>
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
 
@@ -497,7 +496,7 @@ At some point during the semester you will likely have a problem with technology
 
 - Practice safe computing: On your personal devices, install and use software to control viruses and malware.
 
-= Grading Policy
+== Grading Policy
 <grading-policy>
 Grading for the course will follow the FSU grading policy below:
 
@@ -512,7 +511,7 @@ Grading for the course will follow the FSU grading policy below:
 2.0: 71-73 \
 0.0: \< 70
 
-= Academic Resources
+== Academic Resources
 <academic-resources>
 #link("http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/")[Writing Center]
 
