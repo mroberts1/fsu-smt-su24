@@ -1,6 +1,5 @@
 ---
 title: '  '
-format: PrettyPDF-typst
 ---
 # COMM 7018: Social Media Theory
 
@@ -161,7 +160,9 @@ Ryan Milner and Whitney Phillips, **You Are Here**
 **The Dark Forest**
 
 -   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
--   Yancey Strickler, “The Dark Forest Theory of the Internet”; “Beyond The Dark Forest Theory of the Internet” (2019)
+-   Yancey Strickler, “[The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt1.pdf)”; “[Beyond The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt2.pdf)” (2019)
+
+***
 
 ## Resources
 

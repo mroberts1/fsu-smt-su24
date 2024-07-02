@@ -410,7 +410,9 @@ Ryan Milner and Whitney Phillips, #strong[You Are Here]
 #strong[The Dark Forest]
 
 - Maggie Appleton, "#link("https://maggieappleton.com/cozy-web")[The Dark Forest & The Cozy Web];"
-- Yancey Strickler, "The Dark Forest Theory of the Internet"; "Beyond The Dark Forest Theory of the Internet" (2019)
+- Yancey Strickler, "#link("pdf/yancey-strickler-medium-pt1.pdf")[The Dark Forest Theory of the Internet];"; "\[Beyond The Dark Forest Theory of the Internet\]((pdf/yancey-strickler-medium-pt2.pdf)" (2019)
+
+#horizontalrule
 
 == Resources
 <resources>
