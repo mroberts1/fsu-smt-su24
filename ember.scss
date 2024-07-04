@@ -17,25 +17,29 @@ $font-family-sans-serif:  "Nova Square", "Helvetica Neue", "Source Sans", "Inter
 // use Adobe Europa font
 @import url("https://use.typekit.net/sfe1vyn.css");
 
+// use Neue Haas Unica Adobe font: <style>
+@import url("https://use.typekit.net/vxy3xcn.css");
+
 // use IBM Plex Mono
 $font-family-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospace, monospace;
 
 $font-family-serif: "Source Serif Pro", "Literata", "Piazzolla", serif;
 
-$font-family-base: "Europa";
+$font-family-base: "Europa", sans-serif;
 
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
 p, li, {
   font-family: $font-family-base;
+  font-size: 18px;
 }
 
 h1 {
   font-family: $font-family-sans-serif;
   font-weight: 700;
   //letter-spacing: 1px;
-  font-size: 28px;
+  font-size: 30px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -43,7 +47,7 @@ h2, h3, h4, h5, h6 {
   // font-weight: 400;
   //text-transform: uppercase;
   //letter-spacing: 1px;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 a:link {
