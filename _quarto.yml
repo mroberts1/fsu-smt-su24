@@ -23,6 +23,8 @@ website:
               file: lectures/w4-fangirls.qmd
             - text: W5 Females
               file: lectures/w5-females.qmd
+            - text: W7 Dark Forest
+              file: lectures/w7-dark-forest.qmds
         - section: "Resources"
           contents:
             - text: Digital Gardens
