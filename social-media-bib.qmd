@@ -1,0 +1,81 @@
+---
+title: "    "
+format: 
+  html: default
+  PrettyPDF-pdf: default
+---
+
+## Social Media Theory: Bibliography
+
+::: {.content-visible when-format="html"}
+[![](img/polyducks.gif)](https://www.polyducks.co.uk){width=150%}
+:::
+
+:::: {.content-visible when-format="pdf"}
+::: {layout="[[49, -2, 49]]"}
+[![](img/polyducks.png){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/)
+
+:::
+::::
+
+:::callout-note
+*Publications available as audiobooks and ebooks are indicated; you're encouraged to use either format.*
+
+*Open Access publications are linked; individual chapters can be downloaded in PDF format.*
+:::
+
+Baym, Nancy K. (2017). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. New York: New York University Press. ISBN: 978-1479821587.
+
+Bernard, Andreas (2019). *The Triumph of Profiling: The Self in Digital Culture*. Trans. Valentine A. Pakis. Cambridge: Polity Press. Originally published as *Komplizen des Erkennungsdienstes. Das Selbst in der digitalen Kultur*. ISBN: 978-1509536306.
+
+(Audiobook) Brennan, Matthew (2021). *Attention Factory: The Story of TikTok and China's ByteDance*. Independently published. ASIN :B08L3NW6VM.
+
+(Ebook) Berland, Jody. (2019). *Virtual Menageries: Animals as Mediators in Network Cultures*. Cambridge, MA: MIT Press. Ebook: ASIN: B08BTCZ23P.
+
+(Ebook) Boffone, Trevor, ed. (2022). *TikTok Cultures in the United States*. New York: Routledge. Kindle: ASIN: B0B9WKGT9N. ISBN: 978-1032249162.
+
+boyd, danah, *It's Complicated: The Social Lives of Networked Teens* (New Haven: Yale University Press, 2014).
+
+Bruckman, Amy, *Should You Believe Wikipedia? Online Communities and the Construction of Knowledge* (Cambridge: Cambridge University Press, 2022).
+
+Brunton, Finn, and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (Cambridge: MIT Press, 2016).
+
+Coleman, Gabriella, *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous* (London and New York: Verso, 2014).
+
+Dederer, Claire, *Monsters: A Fan's Dilemma* (New York: Alfred A. Knopf, 2023).
+
+[Humphreys, Lee](https://blogs.cornell.edu/humphreys/) (2018). [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting). Cambridge, MA: MIT Press. ISBN: 978-0262538954.
+
+Jackson, Sarah J., Moya Bailey, et al., *#Hashtag Activism: Networks of Race and Gender Justice* (Cambridge: MIT Press, 2020).
+
+(Audiobook) Lagorio-Chafkin, Christine (2018). *We Are The Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory*. New York: Hachette Books. ISBN:  978-0316435406. Audiobook: ASIN: B07H5Q5JGS.
+
+Lobato, Ramon (2019). *Netflix Nations: The Geography of Digital Distribution*. New York: New York University Press. ISBN: 978-1479804948.
+
+Losh, Elizabeth (2022). [*Selfie Democracy: The New Digital Politics of Disruption and Insurrection*](https://direct.mit.edu/books/book/5380/Selfie-DemocracyThe-New-Digital-Politics-of). Cambridge, MA: MIT Press.
+
+Lotz, Amanda D. (2022). *Netflix and Streaming Video: The Business of Subscriber-Funded Video on Demand*. Cambridge: Polity Press. ISBN: 978-1509552955.
+
+Marcus, Gary, & Ernest Davis, *Rebooting AI: Building Artificial Intelligence We Can Trust* (New York: Pantheon Books, 2019).
+
+(Audiobook) McNeil, Joanne (2020). *Lurking: How A Person Became A User*. New York: Farrar, Strauss, and Giroux. ISBN: 978-1250785756.
+
+Nagle, Angela, *Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right* (Alresford, Hampshire, UK: Zero Books, 2017).
+
+Cathy O'Neil, with Stephen Baker, *The Shame Machine: Who Profits in the New Age of Humiliation* (New York: Crown/Random House, 2022).
+
+Phillips, Whitney, *This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture* (Cambridge: MIT Press, 2015).
+
+Phillips, Whitney, and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
+
+Richardson, Allissa V, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
+
+Taylor, T.L. (2018). *Watch Me Play: Twitch and the Rise of Game Live Streaming*. Princeton: Princeton University Press. ISBN: 978-0691183558.
+
+Veale, Tony, and Mike Cook (2018). *Twitterbots: Making Machines That Make Meaning*. Cambridge, MA: MIT Press. ISBN: 978-0262037907.
+
+Wang, Jing (2019). *The Other Digital China: Nonconfrontational Activism on the Social Web*. Cambridge, MA: Harvard University Press. ISBN: 978-0674980921.
+
+(Audiobook) Weinstein, Emily, and Carrie James (2022). [*Behind Their Screens: What Teens Are Facing (And Adults Are Missing)*](https://direct.mit.edu/books/book/5363/Behind-Their-ScreensWhat-Teens-Are-Facing-and). Cambridge, MA: MIT Press. ISBN: 978-0262047357.
+
+White, Michele (2022). [*Touch Screen Theory: Digital Devices and Feelings*](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings). Cambridge, MA: MIT Press. ISBN: 978-0262544689.

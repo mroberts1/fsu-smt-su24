@@ -1,0 +1,53 @@
+---
+title: '  '
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+#### W2: Digital Swarms
+
+[<br />Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]<br /><br />Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6) \[[pdf](pdf/shame-machine-karens.pdf)\]]{.aside}
+
+![*My Night at Maud's* (Eric Rohmer, 1969)](img/216.jpeg){.lightbox}
+
+[Byung-Chul Han](https://en.wikipedia.org/wiki/Byung-Chul_Han) is a Korean-German philosopher who is best known for his short but influential book [*The Burnout Society*](https://www.sup.org/books/title/?id=25725) (2015, originally published in German as *Müdigkeitsgesellschaft*, 2010). If you're interested, this YouTube documentary (see right) is a good introduction to Han and his work.
+
+::: column-margin
+{{< video https://youtu.be/bNkDeUApreo width="320" height="180" >}}
+:::
+
+As you'll see, or have seen, Han writes exactly like a philosopher (he's very influenced by classical German philosophers like Kant and Hegel) - his writing is abstract, with no concrete examples. One of the things I'd like to try to do with you this week, then, is to try to apply some of his concepts and arguments to specific contexts and examples.
+
+One among many that came to mind while re-reading his chapters again was the scandal from a few years back about the phenomenon you may have heard of at least vaguely, of "Karens." In my experience, although referring to certain types of white women with a sense of entitlement as "Karens" has become a meme, many people still know little about the context in which the term originated.
+
+Luckily for us, this origin is explained in a chapter from Cathy O'Neil's excellent recent book *The Shame Machine*, so I decided to include it as optional recommended reading for this week. It's a narrative rather than theory so is a quick read, but if you have chance to take a look at it I think you'll see some connections with some of the points that Han is making in his critique of the decline of respect in online social interactions and digital swarms. I'll be interested to hear how you make that connection in your review assignment due later this week.
+
+While Han's book is a theoretical text that doesn't allude to examples, one thing that you should notice about the book is that it does include references to a wide range of other authors and their works: historical writers like Gustave Le Bon; influential Canadian media theorist Marshall McLuhan; and Michael Hardt and Antonio Negri, authors of another widely-discussed critique of globalization, *Empire*.
+
+As you see, Han's writing is in many ways a kind of dialog with these writers, drawing on some of their concepts and building them into his own conceptual/analytical framework. This is an example of good practice in writing theory---contrary to how it may appear, theoretical thinking and writing never take place in a conceptual vacuum but always in dialog with other thinkers, whether you agree or disagree with them. So try to use Han's book as a model for your own approach to writing about social media theory.
+
+What of the concepts and arguments themselves? Leaving aside the use of the term *shitstorms* in a philosophy book (!), I think Han's writing is extremely lucid and makes some useful conceptual distinctions---betweeen anger and rage, for example, or the historical distinction between *crowds* in the modern, embodied sense, and what Han calls *digital swarms*, an altogether different kind of animal that as users of social media we are all too familiar with! I wonder what you made of this distinction in particular, especially the idea that crowds have a collective dimension (in which people's individuality is subordinated to the mass), whereas swarms are composed of disconnected individuals, or what he calls *anonymous somebodys* (I love this term :)
+
+One thing that's super clear is that Han prefers crowds to swarms (he clearly doesn't share Le Bon's distaste for crowds). Crowds have a soul or spirit, terms that immediately have a positive connotation; they have a collective, community dimension. They have a purpose, symbolically signified by the archetypal activity of the crowd: the *march*; as Han points out, digital swarms do not march! They simply consist of outraged anonymous individuals, and their anger is largely without consequence, quickly dissipating or fastening onto another target. I was wondering how well you thought this analysis applies to online shitstorms or other scandals that you are aware of; can you think of other related examples?
+
+More generally, how accurate do you find Han's melancholy diagnosis of social media communication? He's certainly not alone in making this kind of critique--the notion of *toxicity* and polluted environments is more pervasive in recent critique such as Ryan Milner and Whitney Phillips's book *You Are Here*).
+
+But of course, we don't have to agree! For example, one aspect of this kind of theoretical writing is that it tends to be overly *schematic*, in the sense of reducing the complexities of social and cultural practices to overly rigid, black-and-white distinctions. The highly ideological crowds vs. swarms distinction is a case in point, or the "de-individualized nobodies" vs. "individual anonymous somebodies" distinction later on. It doesn't have to be a zero sum game. So we might try to scrutinize and pull apart these distinctions: for example, how valid is this crowds vs. swarms opposition? Could it not be argued that Han's account of crowds is invoking a nostalgic kind of *folk politics*, as Nick Srnicek and Alex Williams call it in their recent critique of left politics, *Inventing the Future*?
+
+For example, the Turkish journalist Zeynep Tufecki has an excellent book called *Twitter and Tear Gas* which is an account of the use of Facebook and Twitter by oppositional political movements in Tunisia and Egypt that led to the overthrow of autocratic regimes in those countries known as the Arab Spring. Tufecki herself is critical of dismissals of the capacity of social media platforms as catalysts for progressive social change, made by writers like Evgeny Morozov in his aptly-titled book *The Net Delusion*. Han seems to think that basically nothing good can come out of online communication, but do you think that's really true? Don't be afraid to think against the grain and try to come up with counter-examples or arguments.
+
+One last point about the decline of *civility* as the basis for the *public sphere*---an influential concept elaborated by another German philosopher, Jürgen Habermas (1962; Eng. trans. 1989). Of course by now we are all familiar with 4chan and the phenomenon of *trolling*--if you're not, Whitney Phillips's book *This Is Why We Can't Have Nice Things* will walk you through that ugly side of online communication.
+
+But again, is it correct simply to assume that "we" (whoever this term refers to) are indeed no longer civil with one another on SM platforms? Surely it depends on where you look, rather than making blanket generalizations? As far as I can see, many interactions on social media *are* highly respectful and civil, and many online communities go to often difficult lengths to try to ensure this.
+
+To get an idea of this, look at the "Code of Conduct" statements on many communities. [Here's an example](https://editor.p5js.org/code-of-conduct#:~:text=We%20clearly%20communicate%20while%20acknowledging,our%20community%20respectful%20and%20open.) from the p5.js creative coding community.
+
+Or how about the [Three Gates of Speech](https://wiki.xxiivv.com/site/discourse.html), which is recommended on the Mastodon community that I'm a member of. If you haven't come across this, it's a very interesting read, but also problematizes simple narratives about social media being some kind of lawless frontier dominated by trolls and outlaws.
+
+Entire SM platforms are dedicated to trying to reproduce the model of the public sphere, as an arena of civil discourse and debate in which people are *respectful* of and try to listen seriously to perspectivs other than their own. They are explicitly meant to counter the all-too-familiar critique of the silo-ing of SM communities into *echo chambers* of confirmation bias. As an example, take a look at the conversations going on on the platform [Kialo](https://www.kialo.com/about), founded in 2018. For more information about it, see [this article](https://www.chronicle.com/article/).

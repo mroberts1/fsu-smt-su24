@@ -6,33 +6,35 @@ project:
 website:
   title: "Home"  
   sidebar:
-    search: true
+    search: false
+    header: "header.md"
     style: "floating"
-    collapse-level: 2
-    # header: "header.md"
+    collapse-level: 1
     contents:
         - section: "Lectures"
           contents:
             - text: W1 Interpassive Aggressive
-              file: lectures/w1-interpassive.qmd
+              file: w1-interpassive.qmd
             - text: W2 Digital Swarms
-              file: lectures/w2-digital-swarms.qmd
+              file: w2-digital-swarms.qmd
             - text: W3 Selfies
-              file: lectures/w3-selfies.qmd
+              file: w3-selfies.qmd
             - text: W4 Fangirls
-              file: lectures/w4-fangirls.qmd
+              file: w4-fangirls.qmd
             - text: W5 Females
-              file: lectures/w5-females.qmd
+              file: w5-females.qmd
             - text: W7 Dark Forest
-              file: lectures/w7-dark-forest.qmds
+              file: w7-dark-forest.qmd
         - section: "Resources"
           contents:
+            - text: Bibliography
+              file: social-media-bib.qmd
             - text: Digital Gardens
-              file: resources/digital-gardens.qmd
+              file: digital-gardens.qmd
             - text: Mastodon
-              file: resources/mastodon.qmd
+              file: mastodon.qmd
             - text: TikTok Trends
-              file: resources/tt-trends.qmd
+              file: tt-trends.qmd
   navbar:
     background: "#235440"
     right:
@@ -49,8 +51,8 @@ format:
     toc-location: right
     toc-title: '   '
     theme:
-      light: ember.scss
-      dark: [ember.scss, slate]
+      light: [ember.scss, custom_callouts.scss]
+      dark: [ember.scss, custom_callouts.scss, slate]
     css: custom.scss
     self-contained: true
     grid:
@@ -61,8 +63,10 @@ format:
     linestretch: 1.2
     fontsize: 0.9em
     smooth-scroll: true
-    linkcolor: "#235440"
+    # linkcolor: "#235440"
     link-external-newwindow: true
+  PrettyPDF-pdf: default
+callout-appearance: default
 fig-responsive: true
 image-alt: " "
 execute:

@@ -1,0 +1,58 @@
+/*-- scss:defaults --*/
+
+// replicate the CSS for a callout box with a custom title, icon, and default appearance
+
+.solutionbox {
+  margin-top: 1em;
+  margin-bottom: 1em;  
+  border-radius: .25rem;
+  border-left: solid 1px #429A77;
+  border-right: solid 1px #429A77;
+  border-top: solid 1px #429A77;
+  border-bottom: solid 1px #429A77;
+  border-left-color: #429A77 !important;
+}
+
+.solutionbox-icon {
+  height: 0.9rem;
+  width: 0.9rem;
+  display: inline-block;
+  content: "";
+  background-repeat: no-repeat;
+  background-size: 0.9rem 0.9rem;
+  margin-top: .5rem;
+  padding-right: 1.25rem;
+  background-image: url('screwdriver-wrench-solid.svg');
+}
+
+.solutionbox-header {
+  //margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-bottom: none;
+  font-weight: 400;
+  opacity: 85%;
+  font-size: 0.9rem;
+  color: #f0f0f0;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  display: flex;
+  background-color: #429A77;
+  height: 2em;
+  overflow: hidden;
+}
+
+.solutionbox-header p {
+  padding-top: 0.2em;
+}
+
+.solutionbox-body {
+  font-size: 0.9rem;
+  font-weight: 400;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.solutionbox-body > :last-child {
+  padding-bottom: 0.5rem;
+  margin-bottom: 0;
+}
