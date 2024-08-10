@@ -25,7 +25,7 @@ Instructor: Dr. Martin Roberts\
 
 ## Introduction
 
-Hello The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
+The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
 
 :::{.solutionbox}
 ::::{.solutionbox-header}
