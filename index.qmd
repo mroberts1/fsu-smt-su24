@@ -8,8 +8,8 @@ title: '  '
 [![](img/polyducks.gif)](https://www.polyducks.co.uk)
 :::
 
-::: {.content-visible when-format="pdf"}
-:::: {layout="[[49, -2, 49]]"}
+:::: {.content-visible when-format="pdf"}
+::: {layout="[[49, -2, 49]]"}
 [![](img/polyducks.png){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
@@ -20,27 +20,28 @@ GCE Online-Accelerated\
 Instructor: Dr. Martin Roberts\
 [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
 [GitHub repository](https://github.com/mroberts1/fsu-smt-su24)
-::::
 :::
+::::
 
 ## Introduction
 
 The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
 
-:::{.solutionbox}
-::::{.solutionbox-header}
-:::::{.solutionbox-icon}
-:::::
+:::::: solutionbox
+:::: solutionbox-header
+::: solutionbox-icon
+:::
+
 To theorize something involves a number of processes
 ::::
 
-::::{.solutionbox-body}
-- first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
-- how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
-- what is its relation to larger areas of society? What are its implications for those areas?
-- how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
-::::
+::: solutionbox-body
+-   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
+-   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
+-   what is its relation to larger areas of society? What are its implications for those areas?
+-   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
 :::
+::::::
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
@@ -59,34 +60,35 @@ By the end of the course, students will be able to:
 
 All sources are available online or PDFs will be posted on Blackboard.
 
-- Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
+-   Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
 
-- Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
+-   Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
 
-- Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
+-   Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
-- Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
+-   Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
 
 ## Course Information
 
 **Blackboard**\
 We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
 
-:::{.solutionbox}
-::::{.solutionbox-header}
-:::::{.solutionbox-icon}
-:::::
+:::::: solutionbox
+:::: solutionbox-header
+::: solutionbox-icon
+:::
+
 Sources
 ::::
 
-::::{.solutionbox-body}
+::: solutionbox-body
 Reading assignments will be either from Required texts, linked to online, or available as PDF documents.
 
-PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link. 
+PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link.
 
 The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
-::::
 :::
+::::::
 
 ## Assignments / Evaluation
 
